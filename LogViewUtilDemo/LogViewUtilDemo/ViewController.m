@@ -22,7 +22,7 @@
 
 - (void)viewDidAppear:(BOOL)animated{
     [super viewDidAppear:animated];
-//    [SWViewUtil logView:self.navigationController.navigationBar info:SWViewLogInfoOfClassName|SWViewLogInfoOfFrame];
+    SWLogViewDefault(self.view);
 }
 
 - (void)didReceiveMemoryWarning {
