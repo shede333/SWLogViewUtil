@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7390B4EA-27DC-42C3-90B8-BE2DC6804A04</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LogViewUtilDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>96BFD33874A95B9A2854284D2B8C993509BA16FE</key>
+		<string>git.oschina.net:shede333/SWLogViewUtil.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LogViewUtilDemo/LogViewUtilDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>96BFD33874A95B9A2854284D2B8C993509BA16FE</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>git.oschina.net:shede333/SWLogViewUtil.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>96BFD33874A95B9A2854284D2B8C993509BA16FE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>96BFD33874A95B9A2854284D2B8C993509BA16FE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SWLogViewUtil</string>
+		</dict>
+	</array>
+</dict>
+</plist>
