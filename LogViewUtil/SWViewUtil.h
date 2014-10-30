@@ -9,6 +9,10 @@
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 
+#define SWLogView(UIView, SWViewLogInfo)    [SWViewUtil logView:UIView info:SWViewLogInfo];
+#define SWLogViewDefault(UIView)    SWLogView(UIView,SWViewLogInfoOfClassName | SWViewLogInfoOfFrame)
+
+
 typedef NS_OPTIONS(NSUInteger, SWViewLogInfo) {
     SWViewLogInfoOfAll =                    0, //输出所有信息
     SWViewLogInfoOfClassName =              1 << 0,

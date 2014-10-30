@@ -18,7 +18,10 @@
 
 - (void)viewDidAppear:(BOOL)animated{
     [super viewDidAppear:animated];
-    [SWViewUtil logView:self.view info:SWViewLogInfoOfClassName | SWViewLogInfoOfFrame];
+    //一下三条都是等效的
+//    [SWViewUtil logView:self.view info:SWViewLogInfoOfClassName | SWViewLogInfoOfFrame];
+//    SWLogView(self.view, SWViewLogInfoOfClassName | SWViewLogInfoOfFrame)
+    SWLogViewDefault(self.view);
 }
 
 @end
